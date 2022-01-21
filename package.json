@@ -1,0 +1,23 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "description": "url will get shorteb",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "short url"
+  },
+  "author": "Meeta haldar",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15"
+  },
+  "dependencies": {
+    "vite": "^2.7.13"
+  }
+}
